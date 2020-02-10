@@ -2,6 +2,7 @@
 
 <h2>Idea</h2>
 <p>This game is based on typical mobile arena games like Raid Shadow Legends. The game is made for pc on a WEBGL framework.</p>
+<p>The game will be made in unity because it has a wide range of tools which makes it possible to make a game like this. It's also possible to make custom programmed tools which we can use to make the work flow easier.</p>
 
 <h2>Concept</h2>
 <ul>

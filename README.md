@@ -5,5 +5,5 @@
 
 <h2>Concept</h2>
 <li>
-  <ul>- Campaign story</ul>
+  <ul>Campaign story</ul>
 </li>
